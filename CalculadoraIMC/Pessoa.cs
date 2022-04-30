@@ -4,7 +4,7 @@ public class Pessoa
     public float altura { get; set; }
     public float peso { get; set; }
 
-    public Pessoa(String Nome, float Altura, float Peso)
+    public Pessoa(string Nome, float Altura, float Peso)
     {
         nome = Nome;
         altura = Altura;
